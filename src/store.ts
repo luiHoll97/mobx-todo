@@ -1,5 +1,5 @@
 import { Todo } from "./types/todo";
-import { makeAutoObservable} from "mobx";
+import { makeAutoObservable } from "mobx";
 
 // mobX implementation
 
